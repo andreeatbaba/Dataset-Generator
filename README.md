@@ -40,7 +40,7 @@ Next, you’ll configure your project.
 
 Now, before we go to the next step, build your project.
 
-5. Add all .dll files into your build folder (You can find the .dll in the lib folder from each folder in External_Dependencies).
+5. Make sure your.dll files are reachable if not you can always add all .dll files into your build folder (You can find the .dll in the lib folder from each folder in External_Dependencies).
 
 ---
 
