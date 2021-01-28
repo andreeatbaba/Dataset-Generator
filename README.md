@@ -1,6 +1,4 @@
-**AR Pharmacist - Utilities**
-
-*We recommend that you open this README and document yourself about the steps you need to take to run this project.*
+**Machine Learning Training Data Set Generator for text recognition**
 
 ---
 
